@@ -90,6 +90,10 @@
     <Compile Include="Migrations\201811212318581_DeleteCategoriesTable.Designer.cs">
       <DependentUpon>201811212318581_DeleteCategoriesTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201811212344040_PopulateCategoriesTable.cs" />
+    <Compile Include="Migrations\201811212344040_PopulateCategoriesTable.Designer.cs">
+      <DependentUpon>201811212344040_PopulateCategoriesTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PlutoContext.cs" />
     <Compile Include="Program.cs" />
@@ -127,6 +131,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201811212318581_DeleteCategoriesTable.resx">
       <DependentUpon>201811212318581_DeleteCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201811212344040_PopulateCategoriesTable.resx">
+      <DependentUpon>201811212344040_PopulateCategoriesTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
