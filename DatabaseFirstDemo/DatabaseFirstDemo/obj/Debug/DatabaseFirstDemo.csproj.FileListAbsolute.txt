@@ -1,0 +1,12 @@
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csprojAssemblyReference.cache
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CopyComplete
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+E:\REPOS\DatabaseFirstDemo\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb
