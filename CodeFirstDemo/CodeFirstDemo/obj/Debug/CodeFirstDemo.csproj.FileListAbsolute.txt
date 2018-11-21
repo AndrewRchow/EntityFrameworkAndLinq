@@ -1,0 +1,14 @@
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojAssemblyReference.cache
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.CreatePost.resources
+E:\REPOS\EntityFrameworkAndLinq\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.cache
